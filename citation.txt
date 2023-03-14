@@ -1,0 +1,10 @@
+@article{REPO-233,
+    author = "Godoy-Lorite, Antonia and Jones, Nick S",
+    journal = "Science Advances",
+    number = "23",
+    pages = "eabb8762",
+    publisher = "American Association for the Advancement of Science",
+    title = "{Inference and Influence of Network Structure Using Snapshot Social Behavior without Network Data}",
+    volume = "7",
+    year = "2021"
+}
